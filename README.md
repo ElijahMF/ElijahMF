@@ -45,6 +45,8 @@
 
 <br/>
 
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" align="center" alt="Stats"/> Estatísticas do GitHub:
 
 <div align="center">
