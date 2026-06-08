@@ -48,6 +48,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" align="center" alt="Stats"/> Estatísticas do GitHub:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElijahMF&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Estatísticas do GitHub de Elijah" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahMF&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Linguagens mais usadas" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=ElijahMF&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElijahMF&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade"/>
 </div>
