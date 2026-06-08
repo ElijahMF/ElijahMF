@@ -1,6 +1,6 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30px"/>
-  Olá, eu sou Elijah Fuentes!
+  Opa, eae meu mano!
   <img align="right" src="https://komarev.com/ghpvc/?username=ElijahMF&color=blue" alt="Visualizações do perfil"/>
 </h1>
 
