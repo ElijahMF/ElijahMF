@@ -45,9 +45,9 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bar%20Chart.png" width="30px" align="center" alt="Stats"/> Estatísticas do GitHub:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px" align="center" alt="Stats"/> Estatísticas do GitHub:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElijahMF&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Elijah" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahMF&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElijahMF&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Estatísticas do GitHub de Elijah" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahMF&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Linguagens mais usadas" height="160"/>
 </div>
