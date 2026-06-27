@@ -4,7 +4,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ElijahMF&color=blue" alt="Visualizações do perfil"/>
 </h1>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Foguete"/> Codando por lazer e diversão, nada tão sofisticado assim.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Foguete"/> Eu curto as cores do Dracula, e voce? Eu tô aqui só por diversão :P
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="ohhhh yes"/>
@@ -12,16 +12,16 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globo" width="25px" align="center" /> Vivendo no <strong>Brasil</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globo" width="25px" align="center" /> Um cara aí no <strong>Brasil</strong>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medalha" width="25px" align="center" /> Codando para <strong>desenvolvimento Web & Mobile</strong> sabe como é.
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medalha" width="25px" align="center" /> Trabalhando pra <strong>te fazer sorrir</strong>, sabe como é.
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Cérebro" width="25px" align="center" /> Construindo aplicações modernas e tipadas com <strong>React, Next.js & TypeScript</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Cérebro" width="25px" align="center" /> Construindo umas parada aê, quem sabe um dia você conhece.
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Raio" width="25px" align="center" /> Sempre em atrás do próximo projeto que eu possa virar a noite fascinado, talvez seja o seu, não sei.
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Raio" width="25px" align="center" /> Vampiro dev, ocupado a noite com meus projetos, não pertube, eu mordo.
   </li>
 </ul>
 
