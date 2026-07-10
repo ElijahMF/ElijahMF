@@ -1,10 +1,10 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30px"/>
+  <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30px"/> -->
   Opa, eae meu mano!
   <img align="right" src="https://komarev.com/ghpvc/?username=ElijahMF&color=blue" alt="Visualizações do perfil"/>
 </h1>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Foguete"/> Eu curto as cores do Dracula, e voce? Eu tô aqui só por diversão :P
+<!-- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Foguete"/>--> Eu curto as cores do Dracula, e voce? Eu tô aqui só por diversão :P 
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="ohhhh yes"/>
@@ -12,16 +12,16 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globo" width="25px" align="center" /> Um cara aí no <strong>Brasil</strong>
+    <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globo" width="25px" align="center" />--> Um cara aí no <strong>Brasil</strong> 
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medalha" width="25px" align="center" /> Trabalhando pra <strong>te fazer sorrir</strong>, sabe como é.
+    <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Medalha" width="25px" align="center" />--> Trabalhando pra <strong>te fazer sorrir</strong>, sabe como é. 
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Cérebro" width="25px" align="center" /> Construindo umas parada aê, quem sabe um dia você conhece.
+    <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Cérebro" width="25px" align="center" /> -->Construindo umas parada aê, quem sabe um dia você conhece. 
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Raio" width="25px" align="center" /> Vampiro dev, ocupado a noite com meus projetos, não pertube, eu mordo.
+    <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Raio" width="25px" align="center" />--> Vampiro dev, ocupado a noite com meus projetos, não pertube, eu mordo. 
   </li>
 </ul>
 
@@ -35,7 +35,7 @@
   </picture>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop"/> Habilidades Técnicas:
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop"/> Habilidades Técnicas:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -54,7 +54,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat) -->
 
 <br/>
 
