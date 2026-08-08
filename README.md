@@ -1,5 +1,4 @@
 
-<br/> -->
 
 <div align="center">
   <picture>
